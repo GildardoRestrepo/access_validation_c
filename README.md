@@ -153,6 +153,5 @@ gildardo.restrepo@upb.edu.co
 ```
 
 ---
-
 ## Enlaces
-[[proyectos|Proyectos Electrónica]]
+[[reto_2_c|Reto 2 C]]

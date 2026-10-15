@@ -194,6 +194,5 @@ bitmaps de diagnóstico que ya no se referencian (`img_test_row0`, `img_test_f`,
 herramienta de diagnóstico.
 
 ---
-
 ## Enlaces
-[[proyectos|Proyectos Electrónica]]
+[[reto_2_c|Reto 2 C]]

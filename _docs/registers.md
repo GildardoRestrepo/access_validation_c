@@ -329,7 +329,6 @@ bucle principal, así que el compilador no puede cachearlas en un registro.
 | `GPIOx->AFRL`, `GPIOx->AFRH` | Ningún pin usa función alternativa: todos son GPIO puros. |
 | `TIMx`, `EXTI`, `SYSCFG` | La base de tiempo única es `SysTick` y el teclado se lee por barrido, no por interrupción externa. |
 
-
 ---
 ## Enlaces
-[[proyectos|Proyectos Electrónica]]
+[[reto_2_c|Reto 2 C]]

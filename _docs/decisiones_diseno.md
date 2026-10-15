@@ -383,4 +383,4 @@ sola que el multiplexado sigue corriendo.
 
 ---
 ## Enlaces
-[[proyectos|Proyectos Electrónica]]
+[[reto_2_c|Reto 2 C]]

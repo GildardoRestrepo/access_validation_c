@@ -350,4 +350,4 @@ la indicación de ingreso en curso.
 
 ---
 ## Enlaces
-[[proyectos|Proyectos Electrónica]]
+[[reto_2_c|Reto 2 C]]
