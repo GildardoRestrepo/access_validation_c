@@ -1,19 +1,6 @@
 ---
-title: Registros utilizados
-created: 2026-09-08
-time: 11:41pm
-creator: Gilbert
-last update: 2026-09-08
-update by: Gilbert
 type: referencia
-status: activo
-fase: "0"
-area: firmware bare-metal
-editor: Gilbert
-order: 2
-tags:
-  - tipo/referencia
-  - tipo/registros
+created: 2026-09-08
 ---
 
 # Registros utilizados

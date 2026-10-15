@@ -1,19 +1,6 @@
 ---
-title: Plan y bitácora de pruebas
-created: 2026-09-09
-time: 08:53am
-creator: Gilbert
-last update: 2026-09-09
-update by: Gilbert
 type: referencia
-status: activo
-fase: "1"
-area: verificación
-editor: Gilbert
-order: 5
-tags:
-  - tipo/referencia
-  - tipo/pruebas
+created: 2026-09-09
 ---
 
 # Plan y bitácora de pruebas

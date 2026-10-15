@@ -1,19 +1,6 @@
 ---
-title: Decisiones de diseño
-created: 2026-09-09
-time: 08:53am
-creator: Gilbert
-last update: 2026-09-09
-update by: Gilbert
 type: referencia
-status: activo
-fase: "1"
-area: arquitectura de firmware
-editor: Gilbert
-order: 4
-tags:
-  - tipo/referencia
-  - tipo/decisiones
+created: 2026-09-09
 ---
 
 # Decisiones de diseño

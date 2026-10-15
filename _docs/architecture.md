@@ -1,19 +1,6 @@
 ---
-title: Arquitectura del sistema
-created: 2026-09-08
-time: 11:20pm
-creator: Gilbert
-last update: 2026-09-08
-update by: Gilbert
 type: referencia
-status: activo
-fase: "0"
-area: arquitectura de firmware
-editor: Gilbert
-order: 1
-tags:
-  - tipo/referencia
-  - tipo/arquitectura
+created: 2026-09-08
 ---
 
 # Arquitectura del sistema
