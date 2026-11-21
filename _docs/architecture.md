@@ -5,7 +5,7 @@ created: 2026-09-08
 
 # Arquitectura del sistema
 
-> [!success] Resumen
+> [!resumen] Resumen
 > Arquitectura del sistema de control de acceso en C bare-metal sobre STM32F407VET6.
 > Reúne el diagrama de módulos, el modelo de tiempo cooperativo, el contrato de
 > comunicación entre máquinas de estados y el diagrama de estados de **cada una**

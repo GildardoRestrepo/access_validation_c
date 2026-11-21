@@ -5,7 +5,7 @@ created: 2026-09-08
 
 # Registros utilizados
 
-> [!success] Resumen
+> [!resumen] Resumen
 > Todos los registros que toca el proyecto, con su dirección, sus campos y el
 > **valor concreto** que se les escribe según el mapa de pines acordado.
 > Sirve de referencia al escribir el código y de soporte en la sustentación.

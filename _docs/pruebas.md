@@ -5,7 +5,7 @@ created: 2026-09-09
 
 # Plan y bitácora de pruebas
 
-> [!success] Resumen
+> [!resumen] Resumen
 > Dos cosas: el **plan** de pruebas de aceptación que exige el enunciado (§21) y
 > la **bitácora** de lo verificado al cerrar cada fase. Sirve de evidencia de
 > proceso y de guion para la demostración.

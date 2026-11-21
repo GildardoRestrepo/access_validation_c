@@ -5,7 +5,7 @@ created: 2026-09-09
 
 # Decisiones de diseño
 
-> [!success] Resumen
+> [!resumen] Resumen
 > Registro de **por qué** del firmware. Cada entrada dice qué se
 > decidió, qué alternativas había y qué se gana con cada elección.
 
